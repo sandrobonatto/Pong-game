@@ -1,2 +1,3 @@
 # Pong-game
-Game desenvolvido no JavaScript
+## Game developed in JavaScript
+- Developed by **Sandro**
